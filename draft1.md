@@ -22,7 +22,7 @@ Possible futures - Phytomtic rights  -- Can be it's own article at this point
 
 ---
 
-# The Man, The Bureaucracy, The Internet and Bitcoin
+# **The Man, The Bureaucracy, The Internet and Bitcoin**
 
 There are 2 definitions to Bureaucracy.
 
@@ -242,6 +242,24 @@ In a sense, bureaucracy **transcends ruling classes**—it is the **final parasi
 _Example: The modern administrative state, where elected officials often have less power than unelected bureaucratic institutions that dictate policy._
 
 ---
+# **Traditions are solutions to forgotten problems**
+ 
+ So far, we have looked the transition of power across history and civilisations, this is to drive the point home that, Bureaucracy have existed, but have gotten worse towards the up and coming Emergent Ruling Classes. With Secret Police and the degeneracy of the once powerful 'hybrid system' taking the cake. With more surveillance tools and subversion of the Institutional Structures that held up Humanity since it's inception; i.e the conversion of -
+Religion into Political Ideology
+Culture into Critical Theory
+Education into Propaganda
+Community into the Lone Individual
+Economy into a Game
+Emotional Relationships into Transactions
+...have lead to serious social problems for all of us : Be it skyrocketing Depression, Loneliness Crisis, people not being able to make ends meet - where money is no longer a means to something more in life, but rather the end itself. The conversion of human relationships into something purely transactional and shallow, rise of inceldoom and gender and race wars; all have been propped by the Bureaucracy in the modern world to fulfil their need to create the perfect 'Coomsumer', one who doesn't question "why do we need you", void of any self-authority, self-integrity, nor community, race, religion, no friendship or love or otherwise, because god-forbid if you try to find happiness in anything other than endless consumption. All this, to make sure that the masses can never even think of rising against the Big Brother, the maintenance of the Neo Liberal Status Quo and yes, for us to just CONSUME. This is awfully close to Friedrich Nietzsche's Last Man, characterised by passive nihilism and a lack of higher aspirations, ultimately serving the interests of a consumer-driven system that discourages critical examination of authority.
+
+The only logical solution is to fight to take them back. The 'March towards Institutions'. To rekindle the fire of the spirit and not to run away from the problem. This is very prevalent among the American "Don't Tread on me" crowd who might fear government overreach and think, moving away from the institutions of power which are generally centred in cities is the solution. It is not. Antithetically, when we lay down our weapons and tools, we make it easy for our abductors to abuse our rights. For example, California has some of the strictest gun laws in the nation, including mandatory waiting periods, background checks, and restrictions on certain firearm types. Rural residents, who often use firearms for hunting and personal protection, have expressed that these laws impose unnecessary burdens and fail to consider the cultural significance of guns in rural communities. 
+
+In India, the Middle Class is similarly demarcated on several social, regional, religious and cultural lines, hence, holding no voting bloc of their own, a necessity in Despotic Third World Countries, thus never driving change, driving nothing that benefits them, but only a 'form of progress' that takes more and more from them. Similarly, aforementioned  issues take the precedence for the Intellectual classes in India because that's what garners the most attention and craze, drives the emotions, sets the narrative and elects governments. 
+
+If this has to change, the people have to capture the Institutions first and foremost, to kick out the parasitic class masquerading as public servants, and change priorities, drive change. This endeavour is arduous, an uphill battle but it's paramount to end the reign of the False Gods. 
+
+---
 # **The Social Parasite: The Hidden Class of Extraction**
 
 Every society is a delicate balance between those who create and those who consume. At the heart of this balance lies the **host-to-parasite ratio (HPR)**—the unseen measure of a civilization’s health. When the number of productive individuals, or **hosts**, outweighs the number of **parasites**, society thrives. When the parasites begin to overtake the hosts, decline sets in.
@@ -255,7 +273,6 @@ Mexico provides a textbook example of this dynamic. On one side, we see the **ha
 On the other side, we find **the parasites**—not just the infamous drug cartels but also corrupt politicians, bureaucratic leeches, and cultural figures who normalize and glorify parasitic behavior. A striking example is the popularity of **narcocorridos**, folk songs that celebrate cartel life, spreading the idea that crime and parasitism are not only viable life paths but admirable ones.
 
 The result? A country that **never collapses but never reaches its full potential**, constantly locked in a battle between its hosts and its parasites.
-
 ### **The Evolution of Parasitic Classes**
 
 Social parasites adapt to the conditions of their societies. In some cases, they manifest as **ideological parasites**, shaping cultural values to excuse or glorify their existence. In others, they take on the form of **economic parasites**, siphoning wealth through corruption or manipulation.
@@ -281,7 +298,7 @@ The Answer for our era is a resounding 'No'. Go back to the first paragraph of t
 
 The Internet gives us the means to communicate and make community driven decisions without the need of a faceless Bureaucracy trying to relay message across(Often times, skewing said message), it can be a place of genuine debate where good ideas win and bad ones are rightfully trashed, unlike our current system where incompetences and mess-ups are rewarded at the peril of someone else's freedom or/and money. 
 
-Then, you have the Cypherpunk Movement which is basically a Digital Rebellion Against Bureaucratic Decay.  This is a new force has emerged that challenges this decaying structure. Its' born from the belief that **privacy, decentralisation, and cryptographic tools can empower individuals**, the Cypherpunk movement offers more than just digital privacy—it provides the foundation for a new way of organizing society, one that **eliminates the need for bureaucratic middlemen and enables rapid, transparent decision-making via the internet**.
+Then, you have the Cypherpunk Movement which is basically a Digital Rebellion Against Bureaucratic Decay.  This is a new force that has emerged challenging this decaying structure. Its' born from the belief that **privacy, decentralisation, and cryptographic tools can empower individuals**, the Cypherpunk movement offers more than just digital privacy—it provides the foundation for a new way of organising society, one that **eliminates the need for bureaucratic middlemen and enables rapid, transparent decision-making via the internet**.
 
 ## **The Cypherpunk Vision: Replacing Bureaucracy with Digital Autonomy**
 
