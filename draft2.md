@@ -242,22 +242,28 @@ In a sense, bureaucracy **transcends ruling classes**—it is the **final parasi
 _Example: The modern administrative state, where elected officials often have less power than unelected bureaucratic institutions that dictate policy._
 
 ---
-# **Traditions are solutions to forgotten problems**
+# **All Progress is not GOOD Progress**
  
  So far, we have looked the transition of power across history and civilisations, this is to drive the point home that, Bureaucracy have existed, but have gotten worse towards the up and coming Emergent Ruling Classes. With Secret Police and the degeneracy of the once powerful 'hybrid system' taking the cake. With more surveillance tools and subversion of the Institutional Structures that held up Humanity since it's inception; i.e the conversion of -
-Religion into Political Ideology
-Culture into Critical Theory
-Education into Propaganda
-Community into the Lone Individual
-Economy into a Game
-Emotional Relationships into Transactions
+
+> Religion into Political Ideology
+> Culture into Critical Theory
+> Education into Propaganda
+> Community into the Lone Individual
+> Economy into a Game
+> Emotional Relationships into Transactions
+
 ...have lead to serious social problems for all of us : Be it skyrocketing Depression, Loneliness Crisis, people not being able to make ends meet - where money is no longer a means to something more in life, but rather the end itself. The conversion of human relationships into something purely transactional and shallow, rise of inceldoom and gender and race wars; all have been propped by the Bureaucracy in the modern world to fulfil their need to create the perfect 'Coomsumer', one who doesn't question "why do we need you", void of any self-authority, self-integrity, nor community, race, religion, no friendship or love or otherwise, because god-forbid if you try to find happiness in anything other than endless consumption. All this, to make sure that the masses can never even think of rising against the Big Brother, the maintenance of the Neo Liberal Status Quo and yes, for us to just CONSUME. This is awfully close to Friedrich Nietzsche's Last Man, characterised by passive nihilism and a lack of higher aspirations, ultimately serving the interests of a consumer-driven system that discourages critical examination of authority.
 
-The only logical solution is to fight to take them back. The 'March towards Institutions'. To rekindle the fire of the spirit and not to run away from the problem. This is very prevalent among the American "Don't Tread on me" crowd who might fear government overreach and think, moving away from the institutions of power which are generally centred in cities is the solution. It is not. Antithetically, when we lay down our weapons and tools, we make it easy for our abductors to abuse our rights. For example, California has some of the strictest gun laws in the nation, including mandatory waiting periods, background checks, and restrictions on certain firearm types. Rural residents, who often use firearms for hunting and personal protection, have expressed that these laws impose unnecessary burdens and fail to consider the cultural significance of guns in rural communities. 
+The only logical solution is to fight to take them back. The 'March towards Institutions'. To rekindle the fire of the spirit and not to run away from the problem. This is very prevalent among the American "Don't Tread on me" crowd who might fear government overreach and think, moving away from the institutions of power which are generally centred in cities is the solution. It is not. Antithetically, when we lay down our weapons and tools, we make it easy for our abductors to abuse our rights. For example, California has some of the strictest gun laws in the nation, including mandatory waiting periods, background checks, and restrictions on certain firearm types. Rural residents, who often use firearms for hunting and personal protection, have expressed that these laws impose unnecessary burdens and fail to consider the cultural significance of guns in rural communities. So did the Government care that they moved away from them? No. They don't. They came regardless.
 
-In India, the Middle Class is similarly demarcated on several social, regional, religious and cultural lines, hence, holding no voting bloc of their own, a necessity in Despotic Third World Countries, thus never driving change, driving nothing that benefits them, but only a 'form of progress' that takes more and more from them. Similarly, aforementioned  issues take the precedence for the Intellectual classes in India because that's what garners the most attention and craze, drives the emotions, sets the narrative and elects governments. 
+In India, the Middle Class is similarly demarcated on several social, regional, religious and cultural lines, hence, holding no voting bloc of their own, a necessity in Despotic Third World Countries, thus never driving change, driving nothing that benefits them, but only a 'form of progress' that takes more and more from them. Similarly, aforementioned issues take the precedence for the Intellectual classes in India because that's what garners the most attention and craze, drives the emotions, sets the narrative and elects governments. 
 
-If this has to change, the people have to capture the Institutions first and foremost, to kick out the parasitic class masquerading as public servants, and change priorities, drive change. This endeavour is arduous, an uphill battle but it's paramount to end the reign of the False Gods. 
+If this has to change, the people have to capture the Institutions first and foremost, to kick out the parasitic class masquerading as public servants, and change priorities, drive change. This endeavour is arduous, an uphill battle but it's paramount to end the reign of the False Gods. This can only be achieved when we have a two-fold strategy of -
+1. The **Esoteric** : Driving change to fix the social problems of our time leveraging Traditions which did work for the inherent human condition, before being destroyed by powers that be.
+2. The **Material** : Driving change to fix the social problems of our time leveraging Technology, in realms of Economy, Administration and Privacy Protection.
+
+Among most of people who correctly identify these problems of our time, they generally hate Technology for the role in it. Somewhat, rightfully so. But as I explain, we have to be "Accelerationist" in some sense of the word to have a shot at this. Just identifying the problem is not enough. We need Progress, this time, in the right direction.  
 
 ---
 # **The Social Parasite: The Hidden Class of Extraction**
@@ -346,7 +352,7 @@ In contrast to **bureaucratic stagnation**, where decisions take months or years
 
 ## **A Future Without Bureaucracy?**
 
-In this whole piece, the caveat is 'Energy'. All the processes stated above will be energy intensive and computationally expensive at scale. And that's a good thing. This is, what I envision, a better outcome of expansion of energy production and consumption to take our civilisation to type 2 on the Kardashev Scale.
+In this whole piece, the caveat is 'Energy'. All the processes stated above will be energy intensive and computationally expensive at scale. And that's a good thing. This is, what I envision, a better outcome of expansion of energy production and consumption to take our civilisation to type 2 on the Kardashev Scale. 
 
 Bureaucracy is, at its core, a relic of **pre-fast internet era**—an obsolete model for a world that now has the tools to function without it. **Cypherpunk technology offers the keys to bypassing bureaucratic parasites**, shifting power from slow, corrupt institutions to **efficient, decentralized digital networks**.
 
