@@ -47,11 +47,6 @@
 
 ---
 
-This structure emphasizes the article’s journey from historical power transitions to modern digital innovations, framing the fight against bureaucratic decay as a movement to reclaim genuine, decentralized power.
----
-
-# **The Man, The Bureaucracy, The Internet and Bitcoin**
-
 There are 2 definitions to Bureaucracy.
 
 Bureaucracy, as a system of administration, emerged as human societies became more complex and needed efficient ways to manage resources, regulate activities, and maintain order. Its development can be traced back to the rise of early civilisations and the growth of centralised states, as these societies faced increasing demands for coordination and organization. 
@@ -152,9 +147,9 @@ Information power is distinct from ideological power—it is not about shaping b
 
 From the KGB to the Nazis, from intelligence agencies to corporate data surveillance, the new ruling class emerges not from the battlefield or the marketplace but from the ability to monitor, predict, and manipulate public actions.
 
-The Secret Police State tries to end all manners of traditional institutions that formed the base for the traditional ruling classes - i.e Soviet Union tried to destroy the Family, the Church, Free Trade & Natural Rights, Culture and Heritage as to remove the semblance of any past, the Left will say its necessary to do so because, "All these institutions are inherently oppressive", when the real motive for the Secret Police State is to make sure that the Society can never go back to it's default, natural setting. This is the most dangerous of all and the seeds of cultural marxism, critical theory and social justice all lead to the same place. They are the ones who 1984 warns us of.
+The Secret Police State tries to end all manners of traditional institutions that formed the base for the traditional ruling classes - i.e Soviet Union tried to destroy the Family, the Church, Free Trade & Natural Rights, Culture and Heritage as to remove the semblance of any past, the Left will say its necessary to do so because, "All these institutions are inherently oppressive", when the real motive for the Secret Police State is to make sure that the Society can never go back to it's default, natural setting. This is the most dangerous of all and the seeds of cultural Marxism, critical theory and social justice all lead to the same place. They are the ones who 1984 warns us of.
 
-Here, there is no end goal. It's already here, and you wouldn't even know it. The dissenters will be vanquished, the protests will be not be visible, the words will be removed and rights will continue to be curtained, till there's none left, till there's no humanity, only replaceable cogs for the machine.
+Here, there is no end goal. It's already here, and you wouldn't even know it. The dissenters will be vanquished, the protests will be not be visible, the words will be removed and rights will continue to be curtailed, till there's none left, till there's no humanity, only replaceable cogs for the machine.
 
 ### **The Hybrid – The Synthesis of Power**
 
@@ -282,7 +277,7 @@ _Example: The modern administrative state, where elected officials often have le
 > Economy into a Game
 > Emotional Relationships into Transactions
 
-...have lead to serious social problems for all of us : Be it skyrocketing Depression, Loneliness Crisis, people not being able to make ends meet - where money is no longer a means to something more in life, but rather the end itself. The conversion of human relationships into something purely transactional and shallow, rise of inceldoom and gender and race wars; all have been propped by the Bureaucracy in the modern world to fulfil their need to create the perfect 'Coomsumer', one who doesn't question "why do we need you", void of any self-authority, self-integrity, nor community, race, religion, no friendship or love or otherwise, because god-forbid if you try to find happiness in anything other than endless consumption. All this, to make sure that the masses can never even think of rising against the Big Brother, the maintenance of the Neo Liberal Status Quo and yes, for us to just CONSUME. This is awfully close to Friedrich Nietzsche's Last Man, characterised by passive nihilism and a lack of higher aspirations, ultimately serving the interests of a consumer-driven system that discourages critical examination of authority.
+...have lead to serious social problems for all of us : Be it skyrocketing Depression, Loneliness Crisis, people not being able to make ends meet - where money is no longer a means to something more in life, but rather the end itself. The conversion of human relationships into something purely transactional and shallow, rise of inceldom and gender and race wars; all have been propped by the Bureaucracy in the modern world to fulfil their need to create the perfect 'Coomsumer', one who doesn't question "why do we need you", void of any self-authority, self-integrity, nor community, race, religion, no friendship nor love nor otherwise, because god-forbid if you try to find happiness in anything other than endless consumption. All this, to make sure that the masses can never even think of rising against the Big Brother, the maintenance of the Neo Liberal Status Quo and yes, for us to just CONSUME. This is awfully close to Friedrich Nietzsche's Last Man, characterised by passive nihilism and a lack of higher aspirations, ultimately serving the interests of a consumer-driven system that discourages critical examination of authority.
 
 The only logical solution is to fight to take them back. The 'March towards Institutions'. To rekindle the fire of the spirit and not to run away from the problem. This is very prevalent among the American "Don't Tread on me" crowd who might fear government overreach and think, moving away from the institutions of power which are generally centred in cities is the solution. It is not. Antithetically, when we lay down our weapons and tools, we make it easy for our abductors to abuse our rights. For example, California has some of the strictest gun laws in the nation, including mandatory waiting periods, background checks, and restrictions on certain firearm types. Rural residents, who often use firearms for hunting and personal protection, have expressed that these laws impose unnecessary burdens and fail to consider the cultural significance of guns in rural communities. So did the Government care that they moved away from them? No. They don't. They came regardless.
 
@@ -323,7 +318,7 @@ At the time of the writing, Romania's Right Wing Party has been banned and barre
 
 You have India, where a so-called Right Wing Nationalist Government cannot be fiscally responsible, only removes the power away from existing decentralised structures(including religious ones, which it claims to protect) by overextending it's surveillance state, by centralising more control every year, bring in draconian laws that does not care about the Rights and Liberties of her Citizenry as mandated by the Section 14 and 15 of the Constitution. What is so 'Conservative' or 'Right Wing' about this? As someone has said, "BJP is just Congress with Cows". Must ring true for all Gujaratis now that `Mota Bhai` has access to all your Data on your so-called Encrypted Social Media, in the name of Taxation. Make it make sense.  
  
-The examples are endless and the frogs are starting to notice the brimming, boiling water. The Bureaucracy, as we know it today, is an artificial construct only existing because of a healthy amount of hosts partaking in their game. We have to tip this balance away to bring change. Each man checking out of the system is a lower HPR, lower the health of the civilisation, faster the change in the overtone window(I am going to discuss in the next article), greater the propensity to bring improvements by Organised Communities like ourselves. 
+The examples are endless and the frogs are starting to notice the brimming, boiling water. The Bureaucracy, as we know it today, is an artificial construct only existing because of a healthy amount of hosts partaking in their game. We have to tip this balance away to bring change. Each man checking out of the system is a lower HPR, lower the health of the civilisation, faster the change in the overton window(I am going to discuss in the next article), greater the propensity to bring improvements by Organised Communities like ourselves. 
 
 There are different strategies to deal with the 3 enemies within the masses itself (The faithless Bourgeoisie, the incessant Decadent and the Disposables) we will learn more about them later as as we go along this Crusade to cleanse our Civilisation and break the cycle. 
 
@@ -387,3 +382,8 @@ Bureaucracy is, at its core, a relic of **pre-fast internet era**—an obsolete 
 
 The question is not whether bureaucracy will collapse—it is **how long it will take for cryptographic systems to replace it**. If we succeed, the future will not be governed by sluggish bureaucracies, but by **code, cryptography, and collective intelligence—fast, transparent, and unstoppable**.
 
+
+Thanks to proofreaders : 
+Shreyan
+Sachin
+Alok 
