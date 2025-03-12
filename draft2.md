@@ -64,7 +64,7 @@ In medieval Europe, the Church was not just a religious institution; it was a pi
 
 The intellectual class dominates through **ideological power**—they define what is acceptable, what is taboo, and what is unthinkable. In modern times, they manifest as think tanks, universities, and the media, exerting power over what people believe and, by extension, how they behave.
 
-Example : Sumerian City States, the ruling governor or king came from the line of Priests and also held the rank of the Head Priest, also known as "Ensi" at Lagash. Brahmins in Ancient India.
+_Example : Sumerian City States, the ruling governor or king came from the line of Priests and also held the rank of the Head Priest, also known as "Ensi" at Lagash. Brahmins in Ancient India._
 
 This essentially leads to a Theocratic Authoritarianism if taken to the extreme.
 
@@ -74,7 +74,7 @@ Where ideology constructs the framework of power, violence enforces it. The warr
 
 During times of instability, the warrior class often seizes direct control. However, in stable societies, they tend to be subservient to the ideological elite. Modern military leaders rarely take power outright, as they are ideologically conditioned to see themselves as defenders of the state rather than its rulers. This shift marks the transition from lion-led societies to fox-led ones, where controlled violence serves the interests of the bureaucratic and ideological elite.
 
-Example : Franco's Spain, Modern Day Myanmar.
+_Example : Franco's Spain, Modern Day Myanmar._
 
 This essentially leads to a Military Junta or a Right Wing Coalition Authoritarianism if taken to the extreme.
 
@@ -86,7 +86,7 @@ In capitalist societies, the merchant class becomes dominant by leveraging **fin
 
 In the modern world, billionaires fund politicians and media networks, but their power is often contingent on public perception. If the ideological elites turn against them, they can be brought down through regulation, social movements, or public scandal. This shows the limits of financial power when pitted against ideological control.
 
-Example :  The British East India Company, Italian City States - Venice and Genoa 
+_Example :  The British East India Company, Italian City States - Venice and Genoa_
 
 This essentially leads to a Corporatokracy, not to be confused with Corporatism if taken to the extreme. Against mainstream thought, I don't think this is the end of Austrian Economics.
 
@@ -98,7 +98,7 @@ This essentially leads to a Corporatokracy, not to be confused with Corporatism 
 
 Nomadic elites emerge during periods of upheaval—barbarians at the gates, warlords in power vacuums, or revolutionary leaders reshaping the system. They are the great **disruptors of civilization**, often using raw violence or opportunistic alliances to rise to power.
 
-Historically, figures like the Mongols, the Bedouins, or the Cossacks exemplify this ruling class. They capitalize on periods of collapse, stepping into power vacuums left by failing institutions. Their rule, however, is often temporary—eventually, they either assimilate into the existing power structure or are replaced by more stable governance.
+Historically, figures like the _Mongols, the Bedouins, or the Cossacks_ exemplify this ruling class. They capitalize on periods of collapse, stepping into power vacuums left by failing institutions. Their rule, however, is often temporary—eventually, they either assimilate into the existing power structure or are replaced by more stable governance.
 
 In modern times, nomadic elites could be seen in decentralized groups like terrorist organizations, insurgencies, or cybercriminal networks—entities that challenge the existing order but struggle to sustain long-term rule.
 
@@ -106,7 +106,9 @@ In modern times, nomadic elites could be seen in decentralized groups like terro
 
 Rarely does the peasantry rule, but in moments of extreme crisis, they can rise to power. Peasant revolts, communist revolutions, and grassroots uprisings are examples of moments where the lower classes briefly seize control.
 
-However, power gained through mass movements is often unstable. The peasantry lacks longterm institutional experience, making them susceptible to co-optation by ideological elites, military leaders, or bureaucratic administrators. The French Revolution, for instance, began as a peasant uprising but quickly fell under the control of the Jacobins and later Napoleon. The Vanguard, lead by the far left institutional class quickly sought to consolidate power away from the peasants after the revolution and had turned into a complete psychotic police state after Stalin got the reins of the state.
+However, power gained through mass movements is often unstable. The peasantry lacks longterm institutional experience, making them susceptible to co-optation by ideological elites, military leaders, or bureaucratic administrators. The French Revolution, for instance, began as a peasant uprising but quickly fell under the control of the Jacobins and later Napoleon. 
+
+In the Russian Civil War and subsequent takeover by the Bolsheviks, The Vanguard, lead by the far left institutional class quickly sought to consolidate power away from the peasants after the revolution. With time, it transitioned into a complete psychotic police state after Stalin got the reins of the state.
 
 In modern politics, populist movements reflect this dynamic—while they claim to represent the common people, they are often guided by charismatic leaders who manipulate ideology for their own ends.
 
@@ -144,7 +146,7 @@ The U.S. Constitution established a system of checks and balances where politica
 The ultimate rulers are those who can adapt—who can subvert ideology with force and deceit, money with information and pander to the emotions of the masses with manipulation. 
 As Machiavelli suggested, the ideal ruler is both a lion and a fox. And in our modern world, the ones who truly hold power are those who can wear both masks.
 
-### **Lions and foxes**
+# **Lions and foxes**
 
 Each of these sources of power works best under different conditions. Under conditions of anarchy, all the money in the world will not help you; if you are in a room with another person, and you have a million dollars while he has a gun. All your money will not give you an ounce of power and in all likelihood, he will exit that room leaving you without a single one of your million.
 
@@ -160,9 +162,8 @@ The lions got their power from violence alone while the foxes get their power fr
 
 We could even say that all civilisations experience a change from a ruling class made out of lions that forged the nation in some war of independence or conquest, to one made out of foxes that take over once that this society grows and establishes itself.
 
-# **Bureaucracy and the Connection with the Ruling Classes** 
-
 ---
+# **Bureaucracy and the Connection with the Ruling Classes** 
 ## **Bureaucracy and the Default Ruling Classes**
 
 ### **The Priest / Intellectual Class – The Ideological Justification for Bureaucracy**
@@ -357,4 +358,3 @@ In this whole piece, the caveat is 'Energy'. All the processes stated above will
 Bureaucracy is, at its core, a relic of **pre-fast internet era**—an obsolete model for a world that now has the tools to function without it. **Cypherpunk technology offers the keys to bypassing bureaucratic parasites**, shifting power from slow, corrupt institutions to **efficient, decentralized digital networks**.
 
 The question is not whether bureaucracy will collapse—it is **how long it will take for cryptographic systems to replace it**. If we succeed, the future will not be governed by sluggish bureaucracies, but by **code, cryptography, and collective intelligence—fast, transparent, and unstoppable**.
-
