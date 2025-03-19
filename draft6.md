@@ -322,7 +322,7 @@ The examples are endless and the frogs are starting to notice the brimming, boil
 
 There are different strategies to deal with the 3 enemies within the masses itself (The faithless Bourgeoisie, the incessant Decadent and the Disposables) we will learn more about them later as as we go along this Crusade to cleanse our Civilisation and break the cycle. 
 
-Right now, let's talk about something more personal and in our capacity to understand and work on. You should have this question, "Neo, if we remove Bureaucracy, in the ensuing Chaos, won't it be replaced by the same thing?"...and for most era, the answer would be Yes. However, today, we have extremely appropriate and frankly, divine material conditions to start taking consistent efforts to build away from this cesspool. Most people are sheep, but we must be better. That's the divine mandate given to the Masculine by our Gods. 
+Right now, let's talk about something more personal and in our capacity to understand and work on. You should have this question, "Neo, if we remove Bureaucracy, in the ensuing Chaos, won't it be replaced by the same thing?"...and for most era, the answer would be Yes. However, today, we have ripe material conditions to start taking consistent efforts to build away from this cesspool. Most people are sheep, but we must be better. That's the divine mandate given to us. 
 
 The Answer for our era is a resounding 'No'. Go back to the first paragraph of this piece, and in the first definition, the words I have used are carefully adapted to conjure up an entity that can effectively work upon the initial purpose of Bureaucracy, in a non-corruptible manner, i.e the Cypherpunk movement, the Internet and Freedom Tech can be the shot we need at this.
 
